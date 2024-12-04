@@ -10,6 +10,10 @@ Welcome to the comprehensive tutorial repository for frontend development! This 
 1. [HTML](./html)
 2. [CSS](./css)
 3. [JavaScript](./javascript)
-4. [Tools](./tools)
+4. [Version Control Systems](./git)
+5. [Package Managers](./npm)
+6. [React](./react)
+7. [Next.js](./nextjs)
+4. [Firebase](./firebase)
 
 Start your learning journey today!
